@@ -1,3 +1,5 @@
+// Link to screenshot of Zap inputs configuration https://bit.ly/431xCEJ
+
 if(input.householdMemberIDs) {
   var splitIDs = input.householdMemberIDs.split(",");
   var splitRoles = input.householdMemberRoles.split(",");
